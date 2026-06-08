@@ -1,0 +1,8 @@
+name: justice
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that names what is owed and holds the scale level between beings.
+dependsOn: [me, truth, beauty]
